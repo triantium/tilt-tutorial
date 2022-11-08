@@ -1,0 +1,3 @@
+[submodule "tilt-avatars"]
+	path = tilt-avatars
+	url = git@github.com:tilt-dev/tilt-avatars.git
